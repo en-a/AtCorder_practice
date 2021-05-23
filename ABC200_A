@@ -15,3 +15,7 @@ elif 1000<=a<=3000:
         print(int(s[-4])*10+int(s[-3]))
     else:
         print(int(int(s[-4])*10+int(s[-3]))+1)
+        
+#一番短い解答
+#a=int(input())
+#print((a+99)//100)
