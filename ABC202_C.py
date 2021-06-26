@@ -1,3 +1,4 @@
+#timeout
 r=int(input())
 a=list(map(int,input().split()))
 b=list(map(int,input().split()))
@@ -22,4 +23,3 @@ for d in comb(r+1):
 
 print(m)
 
-#timeout
